@@ -1,0 +1,1 @@
+from .emoticon_detection import emoticon_detector
